@@ -17,6 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shantanu-crypto&show_icons=true&locale=en&layout=compact" alt="shantanu-crypto" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shantanu-crypto&show_icons=true&locale=en" alt="shantanu-crypto" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shantanu-crypto&" alt="shantanu-crypto" /></p>
+
+
+
